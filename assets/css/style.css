@@ -49,6 +49,7 @@
 	display: block;
 	font-size: 28px;
 	font-weight: 200;
+	text-align: center;
 	line-height: 35px;
 	margin-bottom: 12px;
 	font-family: 'Open Sans', sans-serif;
@@ -321,6 +322,7 @@ blockquote:hover {
 
 .copyright p {
 	color: #dadada;
+	text-align: right;
 }
 
 .copyright p.copyright-space {
@@ -1448,3 +1450,5 @@ margin-bottom: 0;
 padding-left: 0;
 list-style: none;
 }
+
+

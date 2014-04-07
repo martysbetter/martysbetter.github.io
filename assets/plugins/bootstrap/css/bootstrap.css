@@ -4397,6 +4397,7 @@ a.thumbnail:focus {
 .list-group {
   margin-bottom: 20px;
   padding-left: 0;
+  
 }
 .list-group-item {
   position: relative;
@@ -4405,6 +4406,7 @@ a.thumbnail:focus {
   margin-bottom: -1px;
   background-color: #ffffff;
   border: 1px solid #dddddd;
+  text-align: right;
 }
 .list-group-item:first-child {
   border-top-right-radius: 4px;
