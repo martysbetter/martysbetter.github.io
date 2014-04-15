@@ -1,0 +1,59 @@
+ADV-SEC SITE RE-DESIGN
+
+
+___  HOME - INDEX.HTML
+
+	___ ABOUT US - about.html
+
+
+___ SERVICES
+	
+	___ Fire Protection - fire.html
+
+	___ Intrusion Protection - burg.html
+
+	___ Home Automation - home-automation.html
+
+	___ HD Camera/DVR Systems - cameras.html
+
+	___ Medical  -  medical.html
+
+	___ Network/Wiring - additional-services.html #networking
+
+	___ Phone Systems  -  additional-services.html #phone
+
+	___ Audio/Video  -  additional-services.html #audiovideo
+
+	___ Central Station Monitoring - monitoring.html
+
+
+___ OUR WORK
+
+	___ Clients - clients.html
+
+	___ Testimonials  -  clients.html
+
+
+___ CONTACT US  -  CONTACT.HTML
+
+	___ Contact Us  -  contact.html
+
+
+___ RESOURCES  -  RESOURCES.HTML
+
+	___ Alarm Panel Manuals  -  resources.html #manuals
+
+	___ How-To Videos  -  resources.html #videos
+
+	___ Forms  -  resources.html #forms
+
+	___ Smartphone Apps  -  resources.html #apps
+
+	___ Software  -  resources.html #software
+
+
+___ FOOTER
+
+	___ Privacy Policy  -  privacy.html
+	
+	___ Terms Of Service  -  tos.html
