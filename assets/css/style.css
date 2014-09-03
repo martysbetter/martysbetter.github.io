@@ -1451,3 +1451,7 @@ padding-left: 0;
 list-style: none;
 }
 
+/***** Image Centering - Total Connect Images - burg.html Page *****/
+.img-center {
+	margin:0 auto;
+}
